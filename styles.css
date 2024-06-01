@@ -28,7 +28,7 @@ body{
     max-width: 600px;
     padding: 10px;
     border-radius: 30px;
-    padding: 10px;
+    padding: 35px;
     gap: 5px; 
 }
 
@@ -40,9 +40,13 @@ body{
 
 }
 
-.intro{
-   padding: 10px;
-}
+.intro
+ {
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+    align-items: center;
+  }
 
 h1{
     color: hsl(0, 0%, 100%);
@@ -70,7 +74,7 @@ p{
 }
 
 button{
-    font-weight: 900;
+    font-weight: 600;
     background-color: hsl(0, 0%, 20%);
     color: hsl(0, 0%, 100%);
     border-radius: 5px;

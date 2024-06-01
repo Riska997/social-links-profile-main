@@ -28,7 +28,7 @@ Users should be able to:
 
 ![assets/images/screenshot.jpeg](assets/images/screenshot.jpeg)
 
-![alt text](screenshot.png)
+![alt text](screenshot-hover.png)
 
 ### Links
 
